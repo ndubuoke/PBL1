@@ -1,2 +1,3 @@
-Login to EC2 Instance
-![Screenshot from 2022-11-24 22-36-23](https://user-images.githubusercontent.com/84657461/203866381-68e30c17-86cc-4c3c-85e9-6e408ed606fd.png)
+Provisioning EC2 Instance
+
+![Screenshot from 2022-11-24 21-01-44](https://user-images.githubusercontent.com/84657461/203866509-fb69e3c9-6328-4d85-84c1-55e8a6afde16.png)
