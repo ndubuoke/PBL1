@@ -1,3 +1,2 @@
-Added screenshots
-
-![Screenshot from 2022-11-02 11-23-37](https://user-images.githubusercontent.com/84657461/203851992-b336e70c-6e2e-4d08-a530-c0b378bfce50.png)
+Login to EC2 Instance
+![Screenshot from 2022-11-24 22-36-23](https://user-images.githubusercontent.com/84657461/203866381-68e30c17-86cc-4c3c-85e9-6e408ed606fd.png)
